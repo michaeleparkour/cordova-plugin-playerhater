@@ -1,0 +1,16 @@
+{
+  "name": "PlayerHater",
+  "version": "0.1.0",
+  "description": "PlayerHater Plugin",
+  "cordova": {
+    "id": "ccordova-plugin-playerhater",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeleparkour/cordova-plugin-playerhater.git"
+  }
+}
